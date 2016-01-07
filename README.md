@@ -17,5 +17,5 @@ npm install && npm start
 
 ## QA
 
-Q: 找不到 opener, parallelshell, http-server, jade, node-sass, live-reload, babel 的路径
-A: export PATH=./node_modules/.bin:$PATH
+- Q: 找不到 opener, parallelshell, http-server, jade, node-sass, live-reload, babel 的路径
+- A: export PATH=./node_modules/.bin:$PATH
