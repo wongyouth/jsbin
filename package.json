@@ -24,6 +24,7 @@
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.4.0",
+    "babel-preset-node5": "^10.2.0",
     "http-server": "^0.8.5",
     "jade": "^1.11.0",
     "live-reload": "^1.1.0",
